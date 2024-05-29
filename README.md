@@ -1,2 +1,13 @@
-# LakeMonstersData
-An Analysis of the Vermont Lake Monsters 2023 season data.
+# Lake Monsters Data Analysis
+
+This repository contains a Power BI report showcasing the Vermont Lake Monsters 2023 season data insights.
+
+## Viewing the report
+
+You can view the live report by clicking the link below:
+
+[![View Report]([https://via.placeholder.com/150](https://github.com/ChenLuiz/LakeMonstersData/blob/main/powerbi_thumbnail.png))](https://app.powerbi.com/reportEmbed?reportId=db2a7cac-a51a-44b4-9768-154d76fa2136&autoAuth=true&ctid=d51d7a76-142c-4c45-9d41-c73ad5724b90)
+
+## Download the Report
+
+Alternatively, you can download the Power BI file (.pbix) from this link: [Download](https://github.com/ChenLuiz/LakeMonstersData/tree/main).
